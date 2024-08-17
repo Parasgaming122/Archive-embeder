@@ -9,3 +9,8 @@ const episodeNumber = `Ep ${i}.mp4`; format for Ep 3.mp4
 
 change 25 with max ep number 
     for (let i = 1; i <= 25; i++) {
+
+
+OR give the code to ai and use this prompt 
+now this is the base url {Baseurl} and this is the ep format {Epformat} and instead of 25 max is {max epno}     for (let i = 1; i <= 25; i++) {
+
